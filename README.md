@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-colefoster
 
 Running at: <https://jpa03-colefoster.dokku-08.cs.ucsb.edu>
 
